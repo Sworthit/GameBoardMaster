@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TaskMaster</string>
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="intro_text_description">Collaborate and Plan Together Across Multiple Devices on Projemanag’s Minimalist Interface.</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+
+    <string name="sign_up_description_text">Enter your name, email id and password.</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+    <string name="sign_in_description_text">Enter your credentials:</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="log_out">Sign Out</string>
+    <string name="profile_name">My profile</string>
+    <string name="update">Update</string>
+    <string name="board_name">Board Name</string>
+    <string name="create">Create board</string>
+    <string name="no_boards">No Boards Available Create One!</string>
+    <string name="add_list">Add List</string>
+    <string name="action_add_card">Add Card</string>
+    <string name="hint_card_name">Card Name</string>
+    <string name="hint_list_name">List Name</string>
+    <string name="members">Members</string>
+    <string name="add_member">Add Member</string>
+    <string name="search_member">Search member</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_due_date">Due Date</string>
+    <string name="select_members">Select Members</string>
+    <string name="select_color">Select Color</string>
+    <string name="label_color">Label Color</string>
+    <string name="delete_card">Delete Card</string>
+</resources>
