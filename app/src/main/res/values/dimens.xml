@@ -56,4 +56,6 @@
     <dimen name="card_details_value_padding">10dp</dimen>
     <dimen name="card_details_members_label_marginTop">15dp</dimen>
     <dimen name="card_details_update_btn_marginTop">30dp</dimen>
+
+    <dimen name="item_selected_member_image">45dp</dimen>
 </resources>

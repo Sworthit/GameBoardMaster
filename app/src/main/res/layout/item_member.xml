@@ -26,6 +26,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_weight="1"
             android:layout_marginStart="10dp"
             android:orientation="vertical">
 
@@ -45,6 +46,16 @@
                 android:textSize="14dp"
                 tools:text="Email" />
         </LinearLayout>
+        
+        <ImageView
+            android:id="@+id/ivSelectedMember"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|end"
+            android:src="@drawable/ic_baseline_done_24"
+            android:visibility="gone"
+            />
+
     </LinearLayout>
 
     <View
